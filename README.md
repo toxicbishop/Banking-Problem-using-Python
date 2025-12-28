@@ -1,4 +1,4 @@
-# 🏦 Python Banking Program
+# 🏦 Banking Program
 
 A simple, console-based banking simulation tool developed in Python. This program allows users to manage a virtual bank account with basic financial operations such as depositing, withdrawing, and checking balances.
 
